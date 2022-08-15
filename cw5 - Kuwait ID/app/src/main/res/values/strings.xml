@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kuwait ID</string>
+    <string name="user_information">User information :</string>
+    <string name="name">Name :</string>
+    <string name="kuwait_id">Kuwait ID</string>
+    <string name="age">age :</string>
+</resources>
